@@ -16,7 +16,7 @@ export function Home () {
 
     const handleSubmit = ()=>{
         dispatch(logOut())
-        navigate('/store-basico-con-redux')
+        navigate('/')
     }
 
     useEffect(()=>{
