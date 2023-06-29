@@ -1,0 +1,58 @@
+{
+    "products": [
+    {
+      "id": 0,
+      "name": "Manzana",
+      "price": 25,
+      "category": "Frutas"
+    },
+    {
+      "id": 1,
+      "name": "Banana",
+      "price": 30,
+      "category": "Frutas"
+    },
+    {
+      "id": 2,
+      "name": "Naranja",
+      "price": 20,
+      "category": "Frutas"
+    },
+    {
+      "id": 3,
+      "name": "Agua 2lts",
+      "price": 150,
+      "category": "Bebidas"
+    },
+    {
+      "id": 4,
+      "name": "Sprite 2.25lts",
+      "price": 250,
+      "category": "Bebidas"
+    },
+    {
+      "id": 6,
+      "name": "Coca Cola 2.25lts",
+      "price": 300,
+      "category": "Bebidas"
+    },
+    {
+      "id": 7,
+      "name": "Lays",
+      "price": 200,
+      "category": "Snack"
+    },
+    {
+      "id": 8,
+      "name": "Palitos",
+      "price": 175,
+      "category": "Snack"
+    },
+    {
+      "id": 9,
+      "name": "Maníes",
+      "price": 140,
+      "category": "Snack"
+    }
+  ]
+}

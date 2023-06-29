@@ -1,0 +1,74 @@
+{
+  "user": [
+    {
+      "id": 0,
+      "email": "example111@gmail.com",
+      "firstName": "First",
+      "lastName": "Last111",
+      "password": "111"
+    },
+    {
+      "id": 1,
+      "email": "example222@gmail.com",
+      "firstName": "First",
+      "lastName": "Last222",
+      "password": "222"
+    },
+    {
+      "id": 2,
+      "email": "example333@gmail.com",
+      "firstName": "First",
+      "lastName": "Last333",
+      "password": "333"
+    },
+    {
+      "id": 3,
+      "email": "example444@gmail.com",
+      "firstName": "First",
+      "lastName": "Last444",
+      "password": "444"
+    },
+    {
+      "id": 4,
+      "email": "example555@gmail.com",
+      "firstName": "First",
+      "lastName": "Last555",
+      "password": "555"
+    },
+    {
+      "id": 5,
+      "email": "example666@gmail.com",
+      "firstName": "First",
+      "lastName": "Last666",
+      "password": "666"
+    },
+    {
+      "id": 6,
+      "email": "example777@gmail.com",
+      "firstName": "First",
+      "lastName": "Last777",
+      "password": "777"
+    },
+    {
+      "id": 7,
+      "email": "example888@gmail.com",
+      "firstName": "First",
+      "lastName": "Last888",
+      "password": "888"
+    },
+    {
+      "id": 8,
+      "email": "example999@gmail.com",
+      "firstName": "First",
+      "lastName": "Last999",
+      "password": "999"
+    },
+    {
+      "id": 9,
+      "email": "example101010@gmail.com",
+      "firstName": "First",
+      "lastName": "Last101010",
+      "password": "101010"
+    }
+  ]
+}
