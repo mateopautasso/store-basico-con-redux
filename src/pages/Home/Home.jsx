@@ -16,7 +16,7 @@ export function Home () {
 
     const handleSubmit = ()=>{
         dispatch(logOut())
-        navigate('/')
+        navigate('./')
     }
 
     useEffect(()=>{
