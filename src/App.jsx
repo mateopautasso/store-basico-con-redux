@@ -9,7 +9,7 @@ function App() {
   return (
     <div className='main-container'>
       <Routes>
-        <Route path='/' element={<LogIn />} />
+        <Route path='/store-basico-con-redux' element={<LogIn />} />
         <Route path='/home' element={<Home />} />
         <Route path='/cart' element={<Cart />} />
       </Routes>
